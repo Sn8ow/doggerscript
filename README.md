@@ -124,7 +124,7 @@ View your MAC faster
 ```
 cd
 apt-get update
-git clone https://github.com/arismelachroinos/lscript.git
+git clone https://github.com/Sn8ow/doggerscript.git
 cd doggerscript
 chmod +x install.sh
 ./install.sh

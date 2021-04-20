@@ -15,7 +15,7 @@ I actually made it for fun for me just to save some time, but i don't mind publi
 
 ### Features
 
-   ### NEW FEATURE: Custom keyboard shortcuts!! Launch any tool within lscript , with your own shortcuts!!! (type ks to set your shortcuts)
+   ### NEW FEATURE: Custom keyboard shortcuts!! Launch any tool within doggerscript , with your own shortcuts!!! (type ks to set your shortcuts)
 	
 Enabling-Disabling interfaces faster
 Changing Mac faster

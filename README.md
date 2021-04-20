@@ -1,5 +1,4 @@
 # Welcome in DoggerScript
-*The doggerscript has not been updated for a while due to me being very busy with my life. I will try my best to upload an update when I find the time*
 
 **For feature-recommendation , add it on the "Issues" tab. NOW!**
 
